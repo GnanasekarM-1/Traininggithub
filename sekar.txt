@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Branchname repo 
 text has been added
+=======
+This file is kept in Training Branch
+
+>>>>>>> Training
